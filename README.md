@@ -1,26 +1,23 @@
-<div align="center"> <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> </div>
+## Programming Languages
+<img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="C" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<br /><br /><br />
 
-<h1 align="center">AmirHossein Roodaki</h1>
+## Tools and Software
+<img align="left" alt="GIT" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="VS-Code" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="LaTeX" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<img align="left" alt="Canva" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+<img align="left" alt="Figma" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="Notion" width="60px" style="padding-right:10px;" src="https://img.icons8.com/color/48/notion--v1.png" />
+<br /><br /><br />
 
-* 👨‍🎓 BS Computer Engineering Student at Shiraz University.
+## Workspace
+<img align="left" alt="Windows" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img align="left" alt="Linux" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<br /><br /><br />
 
-* 💡 Intrested in AI & Blockchain.
-
-## 🌐 Connect With Me
-[<img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg' alt='gmail' height='40'>](mailto:amirhossein.rdk@gmail.com)
-[<img src='https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw' alt='linkedin' height='40'>](https://www.linkedin.com/in/amirhossein-roodaki/)
-[<img src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20044968/amirhossein-roodaki)
-[<img src='https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png' alt='facebook' height='40'>](https://www.facebook.com/amirhossein.rdk)
-[<img src='https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png' alt='instagram' height='40'>](https://www.instagram.com/amirhossein.rdk/)
-
-## 📈 GitHub Stats
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=roodaki&show_icons=true&hide_border=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=roodaki&hide_border=true&theme=radical" />
-
-## 🉐 Most Used Languages
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roodaki&layout=compact&hide_border=true&theme=radical" />
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+## GitHub Stats
+![AmirHossein Roodaki's GitHub Stats 1](https://github-readme-stats.vercel.app/api?username=Roodaki&hide_border=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roodaki&hide_border=true&layout=donut&theme=radical)
